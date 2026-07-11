@@ -4,7 +4,7 @@
 
 Talk to your calendar in plain English. Get a morning briefing every day. And when an event ends, the bot actually checks in and asks: *did you do it?*
 
-This was my first n8n project — five workflows that work together as one stateful assistant.
+Five workflows that work together as one stateful assistant.
 
 ![Architecture](images/architecture.svg)
 
